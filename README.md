@@ -3,7 +3,8 @@
 <h4 align="center">The last post was only to stop Fiddler</h4>
 <h4 align="center">I put some time and created some better and for more application to stop sniffing</h4>
 
-<p align="center">
+```csharp
+Dictionary<string, string> Below this is the code = new Dictionary<string, string>()
 
 namespace AntiSniffer
 {
@@ -50,8 +51,3 @@ namespace AntiSniffer
         }
     }
 }
-
-<br>
-
-</p>
-<h4 align="center"> Discord: AK47#2237 </h4>
