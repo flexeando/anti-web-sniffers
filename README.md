@@ -3,6 +3,21 @@
 <h4 align="center">The last post was only to stop Fiddler</h4>
 <h4 align="center">I put some time and created some better and for more application to stop sniffing</h4>
 
+<br>
+
+<h2 align="center">Contact me :speech_balloon:</h2>
+
+<p align="center">
+  
+<a href="https://t.me/ripgxston" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+            
+</p>
+<h4 align="center"> Discord: AK47#2237 </h4>
+
+<br>
+
 namespace AntiSniffer
 {
     using System.Collections.Generic;
