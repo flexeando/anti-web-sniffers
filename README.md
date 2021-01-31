@@ -1,9 +1,11 @@
-[CODE] [UPDATED] ANTI-WEB SNIFFERS
+<h2 align="center">[CODE] [UPDATED] ANTI-WEB SNIFFERS</h2>
 
-The last post was only to stop Fiddler
-I put some time and created some better and for more application to stop sniffing
+<h4 align="center">The last post was only to stop Fiddler</h4>
+<h4 align="center">I put some time and created some better and for more application to stop sniffing</h4>
 
-////////////////////////// CODE ANTI-SNIFFING //////////////////////////
+<br>
+
+<h4>////////////////////////// CODE ANTI-SNIFFING //////////////////////////</h4>
 
 namespace AntiSniffer
 {
