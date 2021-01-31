@@ -5,23 +5,6 @@
 
 <br>
 
-<h2 align="center">BUSINESS OR DUDES :speech_balloon:</h2>
-
-<p align="center">
-  
-<a href="https://t.me/ripgxston" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
-  
-<a href="https://twitter.com/ripgxston" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-
-</p>
-<h4 align="center"> Discord: AK47#2237 </h4>
-
-<br>
-
 namespace AntiSniffer
 {
     using System.Collections.Generic;
@@ -67,3 +50,22 @@ namespace AntiSniffer
         }
     }
 }
+
+<br>
+
+<h2 align="center">BUSINESS OR DUDES :speech_balloon:</h2>
+
+<p align="center">
+  
+<a href="https://t.me/ripgxston" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+  
+<a href="https://twitter.com/ripgxston" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+
+</p>
+<h4 align="center"> Discord: AK47#2237 </h4>
+
+<br>
